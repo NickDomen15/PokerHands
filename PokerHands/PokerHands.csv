@@ -1,0 +1,12 @@
+HandType, NumberOfHands 
+Royal Flush, 0
+Straight Flush, 0
+Four of a kind, 13
+Full house, 268
+Flush, 315
+Straight, 117
+Three of a kind, 475
+Two pair, 2440
+Pair, 4515
+High card, 1857
+Total, 10000
