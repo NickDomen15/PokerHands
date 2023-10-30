@@ -177,9 +177,12 @@ public class HandEvaluator {
 	 * CSV file using BufferedWriter and FileWriter
 	 * @param String fileName
 	 */
+	/*
+	 * Code used from:
+	 * https://beginnersbook.com/2014/01/how-to-write-to-file-in-java-using-bufferedwriter/
+	 */
 	public void writeToCSV(String fileName) {
 		
-		// used https://beginnersbook.com/2014/01/how-to-write-to-file-in-java-using-bufferedwriter/
 		try {
 			
 			File file = new File(fileName);
